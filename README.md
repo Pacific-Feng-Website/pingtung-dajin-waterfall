@@ -1,1 +1,0 @@
-# pingtung-dajin-waterfall
