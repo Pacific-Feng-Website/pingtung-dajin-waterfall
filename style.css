@@ -663,6 +663,11 @@ nav .icon-list{
 	opacity: 0.8;
 }
 
+#mainContent iframe{
+	width: 60%;
+	height: 315px;
+}
+
 
 
 @media only screen and (max-width: 1067px){
@@ -692,6 +697,13 @@ nav .icon-list{
 		font-size: 13px;
 		line-height: 13px;
 		letter-spacing: 2px;
+	}
+}
+
+@media only screen and (max-width: 750px){
+	#mainContent iframe{
+		width: 95%;
+		height: 315px;
 	}
 }
 
